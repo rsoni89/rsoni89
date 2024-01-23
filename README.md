@@ -1,4 +1,10 @@
-### Hi there 👋
+### About Me!
+Hi there, I'm Riya Soni
+- Bachelor Student in University of Cincinnati majoring in Computer Engineering and minor in Mathematics
+- Currently working as IT Technician at UC
+- Experienced in Embedded Systems, Data mining, Data processing and Software development
+- Intrigued in Machine Learning, Artifical Intelligence and IoT
+Feel free to reach out to me with any coloborations or if interseted to have a chat
 
 <!--
 **rsoni89/rsoni89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
