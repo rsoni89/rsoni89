@@ -4,6 +4,7 @@ Hi there, I'm Riya Soni
 - Currently working as IT Technician at UC
 - Experienced in Embedded Systems, Data mining, Data processing and Software development
 - Intrigued in Machine Learning, Artifical Intelligence and IoT
+
 Feel free to reach out to me with any coloborations or if interseted to have a chat
 
 <!--
