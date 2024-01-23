@@ -1,9 +1,10 @@
-## About Me!😄
-### Hi there, I'm Riya Soni
+## About Me!🤗
+### Hi there, I'm Riya Soni😄
 - Bachelor Student in University of Cincinnati majoring in Computer Engineering and minor in Mathematics
 - Currently working as IT Technician at UC
 - Experienced in Embedded Systems, Data mining, Data processing and Software development
 - Intrigued in Machine Learning, Artifical Intelligence and IoT
+- Contact information: 📧 rajshreesoni@gmail.com
 
 Feel free to reach out to me with any coloborations or if interseted to have a chat
 
