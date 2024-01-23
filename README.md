@@ -1,5 +1,5 @@
-# About Me!
-## Hi there, I'm Riya Soni
+## About Me!
+# Hi there, I'm Riya Soni
 - Bachelor Student in University of Cincinnati majoring in Computer Engineering and minor in Mathematics
 - Currently working as IT Technician at UC
 - Experienced in Embedded Systems, Data mining, Data processing and Software development
